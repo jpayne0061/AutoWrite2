@@ -21,3 +21,5 @@
 21|rapper ett|ett|coolGroup
 22|cooli foolia|folia lopp yv|coolGroup
 23|anothe rettx entry|polio|coolGroup
+24|this is a nother script in group bacon|bacon scipt|bacon
+25|selevt * from jauba script|jumbaa scup|jumbalya

@@ -298,6 +298,7 @@ namespace wpfAutoFormic
             g.RowDefinitions.Add(new RowDefinition());
             g.RowDefinitions.Add(new RowDefinition());
             g.RowDefinitions.Add(new RowDefinition());
+            g.RowDefinitions.Add(new RowDefinition());
             Grid.SetRow(groupLabel, 0);
             Grid.SetRow(groupName, 1);
             Grid.SetRow(sciptText, 2);
@@ -305,6 +306,7 @@ namespace wpfAutoFormic
 
             g.Children.Add(groupLabel);
             g.Children.Add(groupName);
+            g.Children.Add(sciptText);
             g.Children.Add(groupButton);
 
             gridMain.Content = g;
