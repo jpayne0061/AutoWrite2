@@ -1,0 +1,23 @@
+1|Hello, world!|hello|bacon
+2|a third|third|bacon
+3|yellow|yell|bacon
+4|foutrth|fior|bacon
+5|yaba daba doo|taba6|bacon
+6|select * from feeds|feeds|bacon
+7|select * from cars|select cars|firstGroup
+8|here is some text to write|write text|firstGroup
+9|add some etx|add|firstGroup
+10|add mre|more11|more text more |t more|firstGroup
+11|more text more xxxx |t more x|firstGroup|secondGroup
+12|select * from cars join toilets|car toilets|secondGroup
+13|select * from all the dbs|select all|secondGroup
+14|select * from all the dbs|select all|secondGroup
+15|yoyoyoyoyoyyooy|yo|secondGroup
+16|do all tht e things|do it|secondGroup
+17|about to finish up|finish|secondGroup
+18|some etxt here|some|coolGroup
+19|some etxt to do|to do|coolGroup
+20|yahoo dooo|yadoo|coolGroup
+21|rapper ett|ett|coolGroup
+22|cooli foolia|folia lopp yv|coolGroup
+23|anothe rettx entry|polio|coolGroup

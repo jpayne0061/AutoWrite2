@@ -1,0 +1,15 @@
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\bin\Debug\wpfAutoFormic.exe.config
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\bin\Debug\wpfAutoFormic.exe
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\bin\Debug\wpfAutoFormic.pdb
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\wpfAutoFormic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\App.g.cs
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\wpfAutoFormic_MarkupCompile.cache
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\wpfAutoFormic_MarkupCompile.lref
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\wpfAutoFormic.g.resources
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\wpfAutoFormic.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\wpfAutoFormic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\wpfAutoFormic.exe
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\wpfAutoFormic.pdb
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\Debug\App.baml

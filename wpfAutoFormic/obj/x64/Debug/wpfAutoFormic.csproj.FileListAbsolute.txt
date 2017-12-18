@@ -1,0 +1,34 @@
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\bin\x64\Debug\wpfAutoFormic.exe.config
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\bin\x64\Debug\wpfAutoFormic.exe
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\bin\x64\Debug\wpfAutoFormic.pdb
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\App.g.cs
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic_MarkupCompile.cache
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic_MarkupCompile.lref
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\App.baml
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\MainWindow.baml
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.g.resources
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.csproj.GenerateResource.Cache
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.exe
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.pdb
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\Add.g.cs
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic\wpfAutoFormic\obj\x64\Debug\Add.baml
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\bin\x64\Debug\wpfAutoFormic.exe.config
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.exe
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.pdb
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\Add.g.cs
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\App.g.cs
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic_MarkupCompile.cache
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic_MarkupCompile.lref
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\bin\x64\Debug\wpfAutoFormic.exe
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\bin\x64\Debug\wpfAutoFormic.pdb
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\App.baml
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\Add.baml
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\MainWindow.baml
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.g.resources
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\designPatterns\wpfAutoFormic - Copy\wpfAutoFormic\obj\x64\Debug\wpfAutoFormic.csproj.GenerateResource.Cache
